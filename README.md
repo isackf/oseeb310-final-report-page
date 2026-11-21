@@ -1,9 +1,10 @@
+
 # Operating Systems Final Project — Example Repository
 
 **Demonstration topic:** Investigating Operating System Behavior Through System Log Analysis  
 **Status:** Teaching example — **not** a completed student project.
 
-[View the report website](docs/index.html) · [Course source datasets](#real-dataset-for-the-final-project) · [Reproduce the example](#run-the-example)
+[View the report website](https://isackf.github.io/oseeb310-final-report-page/) · [Course source datasets](#real-dataset-for-the-final-project) · [Reproduce the example](#run-the-example)
 
 ## Research motivation
 
